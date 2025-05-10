@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "676235474689",
+    "project_id": "globeconnect-4d354",
+    "storage_bucket": "globeconnect-4d354.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676235474689:android:e9da2c8d932940060f8d00",
+        "android_client_info": {
+          "package_name": "com.dovletyarsultanov.globe_connect.globe_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676235474689-p80b4aljermlsg9qv36bp1dsk4aekklp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dovletyarsultanov.globe_connect.globe_connect",
+            "certificate_hash": "e5b6429008a5118db5fa308d80cc28394f1884c9"
+          }
+        },
+        {
+          "client_id": "676235474689-m0e0rkcofs4cdqr6dplkfm5c66j0ieou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeDuAIW-7ujVQVe03NLUvVVXgYt8uy2s8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676235474689-m0e0rkcofs4cdqr6dplkfm5c66j0ieou.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "676235474689-c02mhaspvlupen2bhrgnbdq66rmvf72g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.globeConnectNew"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
